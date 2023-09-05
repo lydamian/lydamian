@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lydamian
 - 👀 I’m interested in Web Development! UI Design, and System Design!
-- 🌱 I’m currently learning Go, Python/Django, React
-- 💞️ I’m looking to collaborate on  any cool projects!
 - 📫 How to reach me lydamian@gmail.com
 
 <!---
