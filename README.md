@@ -18,7 +18,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ## Featured Projects
 
-### [austinchessclub.com](https://austinchessclub.com)
+### [atxchessclub.com](https://www.atxchessclub.com/)
 
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&style=for-the-badge&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
