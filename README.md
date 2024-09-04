@@ -14,7 +14,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <!-- <[LinkedIn](https://www.linkedin.com/in/lydamian) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydamian)
-[![Resume](https://img.shields.io/badge/Resume-205E99?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/lydamian/lydamian/blob/main/resume.png)
+[![Resume](https://img.shields.io/badge/Resume-205E99?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/lydamian/lydamian/blob/main/resume.pdf)
 
 ## Featured Projects
 
